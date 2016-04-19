@@ -1,7 +1,24 @@
 # Lab.R
 A repository that serves as my lab for exploring the R programming language
 
+R Resources
+* http://www.r-project.org
+* Download page: http://www.cran.r-project.org
 
+
+Helpful Resources
+* http://www.statmethods.net
+* http://www.rseek.org
+* http://www.ats.ucla.edu/stat/r/
+* http://finzi.psych.upenn.edu/search.html
+
+
+R GUI Resources:
+* http://www.rstudio.com
+* http://rattle.togaware.com
+
+
+```
 To install a package in R, start the interactive shell, and enter the following command:
 ```
 > install.packages("{package name}")
@@ -10,8 +27,7 @@ To install a package in R, start the interactive shell, and enter the following 
 For example:
 ```
 > install.packages("ggplot2")
-```
-
+``````
 
 Interesting R Packages
 * http://ggplot2.org/
