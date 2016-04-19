@@ -18,7 +18,7 @@ R GUI Resources:
 * http://rattle.togaware.com
 
 
-```
+
 To install a package in R, start the interactive shell, and enter the following command:
 ```
 > install.packages("{package name}")
@@ -27,7 +27,12 @@ To install a package in R, start the interactive shell, and enter the following 
 For example:
 ```
 > install.packages("ggplot2")
-``````
+```
+
+Learning R Resources
+* MIT 12 week edX course, The Analytics Edge 
+	* https://www.edx.org/course/analytics-edge-mitx-15-071x-2
+
 
 Interesting R Packages
 * http://ggplot2.org/
