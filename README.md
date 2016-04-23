@@ -32,6 +32,7 @@ For example:
 Learning R Resources
 * MIT 12 week edX course, The Analytics Edge 
 	* https://www.edx.org/course/analytics-edge-mitx-15-071x-2
+* http://www.r-tutor.com
 
 
 Interesting R Packages
