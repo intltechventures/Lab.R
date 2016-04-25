@@ -38,3 +38,8 @@ Learning R Resources
 Interesting R Packages
 * http://ggplot2.org/
 * [XKCD style graphs in R] (http://xkcd.r-forge.r-project.org/)
+
+Data Sources
+* [Microsoft Sequential Image Narrative Dataset (SIND)] (http://www.sind.ai/)
+* http://www.seas.upenn.edu/~taskar/ocr/
+* [Global Health Observatory data repository] (http://apps.who.int/gho/data/node.main)
