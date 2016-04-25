@@ -36,7 +36,7 @@ summary(dataframe_name)
 
 	
 str(dataframe_name)
-# display structure detals of dataframe
+# display structure details of dataframe
 	
 	
 subset(dataframe_name, variable == "value")
@@ -51,6 +51,6 @@ which.max(dataframe$parameter)
 # display the maximum value of the specified parameter
 	
 	
-dataframe$parameter[ith_index_value]
+dataframe$parameter[ith_index]
 # display value of the parameter at the ith index value
 ```
