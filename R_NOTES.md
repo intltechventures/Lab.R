@@ -25,7 +25,7 @@ getwd()
 # get working directory
 	
 	
-read.csv("dataframe_name.csv")
+dataframename = read.csv("input_file_name.csv")
 
 
 write.csv(dateframe_name, "output_file_name.csv")
@@ -53,4 +53,23 @@ which.max(dataframe$parameter)
 	
 dataframe$parameter[ith_index]
 # display value of the parameter at the ith index value
+
+
+hist(dataframe$parameter)
+# plot a histogram diagram for a given parameter - useful for understanding the distribution of a variable
+
+
+boxplot(dataframe$parameter_1 ~ dataframe$parameter_2)
+# plot a boxplot, useful for understanding the statistical range of a variable
+# the box shows the range between the 1st and 3rd quartile - with the middle line marking the median value
+# the dashed lines at the top and the bottom of box, show the range from the min-max, excluding outliers
+# Inter-Quartile Range: calculated as the difference between the 1st and 3rd quartile (e.g. Height of the Box)
+# outliers are plotted as circles
+# outliers are identified as any numbers that are plotted
+#	- above the (3rd Quartile + the Inter-Quartile Range), or  
+#	- below the (1st Quartile - the Inter-Quartile Range)
+
+boxplot(dataframe$parameter_1 ~ dataframe$parameter_2, xlab="some label for x-axis" ylab="some label for y-axis",  main="some main title for graph")
+# some additional parameters for making a graph
+
 ```
