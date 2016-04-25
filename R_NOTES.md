@@ -2,25 +2,25 @@
 
 ```R
 ls()
-```
-	* will show the variables you have defined
+```  
+will show the variables you have defined
 
 	
 ```R
 =
-```		
+```		 
 	* assignment of a value to a variable
 
 	
 ```R
 <-
-```	
+```	 
 	* equivalent of "=" for assignment of a value to a variable
 
 	
 ```R
 ==
-```		
+```	 	
 	* exact match condition
 
 	
