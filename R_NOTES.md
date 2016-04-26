@@ -98,8 +98,15 @@ local({fn<-choose.files(filters=Filters[c('R','txt','All'),],index=4)
 sd(dataframe$parameter)
 
 
-mach("literal string to mattch on", dataframe$parameter)
+match("literal string to mattch on", dataframe$parameter)
 
+
+# some additional examples...
+CPS = merge(CPS, CountryMap, by.x="CountryCode", by.y="Code", all.x=TRUE)
+CPS = merge(CPS, CountryMap, by.x="CountryOfBirthCode", by.y="Code", all.x=TRUE)
+sort(tapply(CPS$Race=="Asian", CPS$MetroArea, mean)
+sort(tapply(CPS$Country=="India", CPS$MetroArea, sum , na.rm=TRUE))  
+sort(tapply(CPS$Hispanic==TRUE, CPS$MetroArea, mean, na.rm=TRUE))
 
 
 
