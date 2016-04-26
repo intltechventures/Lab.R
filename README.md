@@ -11,6 +11,7 @@ Helpful Resources
 * http://www.rseek.org
 * http://www.ats.ucla.edu/stat/r/
 * http://finzi.psych.upenn.edu/search.html
+* http://www.r-bloggers.com/
 
 
 R GUI Resources:
