@@ -34,7 +34,7 @@ write.csv(dateframe_name, "output_file_name.csv")
 summary(dataframe_name)
 # provide summary stats of dataframe
 
-	
+
 str(dataframe_name)
 # display structure details of dataframe
 	
@@ -69,7 +69,38 @@ boxplot(dataframe$parameter_1 ~ dataframe$parameter_2)
 #	- above the (3rd Quartile + the Inter-Quartile Range), or  
 #	- below the (1st Quartile - the Inter-Quartile Range)
 
+
 boxplot(dataframe$parameter_1 ~ dataframe$parameter_2, xlab="some label for x-axis" ylab="some label for y-axis",  main="some main title for graph")
 # some additional parameters for making a graph
+# col="red" to change the plot points to the color red
+
+
+table(dataframe$parameter)
+# summary table
+# if quantity of values for a given variable is small, gives a view of counts
+# counts the number of observations for each category
+
+
+tapply(dataframe$parameter_1, dataframe$parameter_2, function, {na.rm=TRUE} )
+# takes three argument
+# takses first argument and groups according to 2nd argument, and finally applies the third argument function
+# (remember to remove NA entries)
+# function examples: mean, min, etc.
+# Optionally, to remove entries with missing values, specifcy na.rm=TRUE as the 4th parameter
+
+
+
+local({fn<-choose.files(filters=Filters[c('R','txt','All'),],index=4)
++ file.show(fn,header=fn,title='')})
+# to display local files, of type ".txt"
+
+
+sd(dataframe$parameter)
+
+
+mach("literal string to mattch on", dataframe$parameter)
+
+
+
 
 ```
