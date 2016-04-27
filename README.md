@@ -3,7 +3,8 @@ A repository that serves as my lab for exploring the R programming language
 
 R Resources
 * http://www.r-project.org
-* Download page: http://www.cran.r-project.org
+* http://www.cran.r-project.org
+* https://cran.r-project.org/manuals.html
 
 
 Helpful Resources
