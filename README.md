@@ -18,6 +18,14 @@ Helpful Resources
 R GUI Resources:
 * http://www.rstudio.com
 * http://rattle.togaware.com
+* http://jupyter.org/  
+	* http://nbviewer.jupyter.org/
+	* http://jupyter.readthedocs.io/en/latest/install.html 
+
+
+Books
+* [Mining the Social Web, 2nd Edition] (http://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
+
 
 
 
