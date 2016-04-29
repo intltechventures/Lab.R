@@ -1,5 +1,6 @@
 # A demo program of a boxplot diagram
 # Some additional background reading / examples for boxplots
+# https://en.wikipedia.org/wiki/Quartile
 # https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th-box-whisker-plots/v/box-and-whisker-plot-exercise-example
 # http://onlinestatbook.com/2/graphing_distributions/boxplots.html
 # http://www.purplemath.com/modules/boxwhisk.htm
