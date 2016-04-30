@@ -13,7 +13,7 @@ Helpful Resources
 * http://www.ats.ucla.edu/stat/r/
 * http://finzi.psych.upenn.edu/search.html
 * http://www.r-bloggers.com/
-
+* http://www.ats.ucla.edu/stat/r/
 
 R GUI Resources:
 * http://www.rstudio.com
