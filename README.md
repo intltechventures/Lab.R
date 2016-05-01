@@ -13,7 +13,11 @@ Helpful Resources
 * http://www.ats.ucla.edu/stat/r/
 * http://finzi.psych.upenn.edu/search.html
 * http://www.r-bloggers.com/
-* http://www.ats.ucla.edu/stat/r/
+* http://www.stat.cmu.edu/
+	* https://twitter.com/CMU_Stats
+* http://stats.stackexchange.com/
+* http://discuss.analyticsvidhya.com/
+
 
 R GUI Resources:
 * http://www.rstudio.com
@@ -29,12 +33,12 @@ Books
 
 
 
-To install a package in R, start the interactive shell, and enter the following command:
+To install a package in R, start the interactive shell, and enter the following command:  
 ```
 > install.packages("{package name}")
-````
+```
 
-For example:
+For example:  
 ```
 > install.packages("ggplot2")
 ```
