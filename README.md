@@ -57,7 +57,7 @@ Interesting R Packages
 * http://ggplot2.org/
 * [XKCD style graphs in R] (http://xkcd.r-forge.r-project.org/)
 * [asta: Applied Statistical Time Series Analysis] (https://cran.r-project.org/web/packages/astsa/index.html)
-
+* [hydroGOF: Goodness-of-Fit functions for comparison of simulated and observed hydrological time series] (https://cran.r-project.org/web/packages/hydroGOF/index.html)
 
 
 Data Sources

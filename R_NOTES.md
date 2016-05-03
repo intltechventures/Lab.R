@@ -1,6 +1,6 @@
-#Helpful R Notes
+#Miscellaneous R Notes
 
-```R
+
 ls()
 # will show the variables you have defined
 
@@ -109,5 +109,8 @@ sort(tapply(CPS$Country=="India", CPS$MetroArea, sum , na.rm=TRUE))
 sort(tapply(CPS$Hispanic==TRUE, CPS$MetroArea, mean, na.rm=TRUE))
 
 
+correlation = cor(model$dependentVariable, model$IndependentVariable)
 
-```
+RMSE = sqrt( mean( (df$model-df$measure)^2 , na.rm = TRUE ) )
+
+
