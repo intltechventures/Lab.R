@@ -1,5 +1,6 @@
 #Miscellaneous R Notes
 
+```R
 
 ls()
 # will show the variables you have defined
@@ -113,4 +114,4 @@ correlation = cor(model$dependentVariable, model$IndependentVariable)
 
 RMSE = sqrt( mean( (df$model-df$measure)^2 , na.rm = TRUE ) )
 
-
+```
