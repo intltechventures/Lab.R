@@ -17,6 +17,7 @@ Helpful Resources
 	* https://twitter.com/CMU_Stats
 * http://stats.stackexchange.com/
 * http://discuss.analyticsvidhya.com/
+* http://manuals.bioinformatics.ucr.edu/home/programming-in-r 
 
 
 R GUI Resources:
@@ -29,8 +30,11 @@ R GUI Resources:
 
 Books
 * [Mining the Social Web, 2nd Edition] (http://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
-
-
+* [Time Series Analysis and Its Applications: With R Examples, Third Edition] (http://www.amazon.com/Time-Analysis-Its-Applications-Statistics/dp/144197864X/)
+	* http://www.stat.pitt.edu/stoffer/tsa3/
+	* [EZ Edition] (http://www.stat.pitt.edu/stoffer/tsa3/tsa3EZ.pdf)
+* [Nonlinear Time Series: Theory, Methods and Applications with R Examples, 1st Edition] (http://www.amazon.com/Nonlinear-Time-Applications-Examples-Statistical/dp/1466502258)
+	* http://www.stat.pitt.edu/stoffer/nltsa/
 
 
 To install a package in R, start the interactive shell, and enter the following command:  
@@ -52,6 +56,9 @@ Learning R Resources
 Interesting R Packages
 * http://ggplot2.org/
 * [XKCD style graphs in R] (http://xkcd.r-forge.r-project.org/)
+* [asta: Applied Statistical Time Series Analysis] (https://cran.r-project.org/web/packages/astsa/index.html)
+
+
 
 Data Sources
 * [Microsoft Sequential Image Narrative Dataset (SIND)] (http://www.sind.ai/)
