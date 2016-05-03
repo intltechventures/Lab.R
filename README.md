@@ -38,14 +38,22 @@ Books
 
 
 To install a package in R, start the interactive shell, and enter the following command:  
-```
+```R
 > install.packages("{package name}")
 ```
 
 For example:  
-```
+```R
 > install.packages("ggplot2")
 ```
+
+To Update R:
+```R
+install.packages("installr") # install 
+setInternet2(TRUE)
+installr::updateR() # updating R.
+```
+
 
 Learning R Resources
 * MIT 12 week edX course, The Analytics Edge 
