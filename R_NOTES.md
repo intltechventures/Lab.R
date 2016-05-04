@@ -25,7 +25,18 @@ rm(dataframe_name)
 getwd()
 # get working directory
 	
-	
+
+# create a dataframe from two vectors
+x <-c(1,2,3)
+y <-c(100,200,300)
+x_name <- "cond"
+y_name <- "rating"
+require(reshape2)
+df <- melt(data.frame(x,y))
+colnames(df) <- c(x_name, y_name)
+str(df)
+
+
 dataframename = read.csv("input_file_name.csv")
 
 
