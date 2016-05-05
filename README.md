@@ -61,6 +61,10 @@ Learning R Resources
 * http://www.r-tutor.com
 
 
+Data Science Courses
+* [Coursera: Lear Data Science Fundamentals] (https://www.coursera.org/specializations/data-analysis)
+
+
 Interesting R Packages
 * http://ggplot2.org/
 * [XKCD style graphs in R] (http://xkcd.r-forge.r-project.org/)
