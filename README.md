@@ -29,6 +29,8 @@ R GUI Resources:
 
 
 Books
+* [R in Action, Second Edition] (https://www.manning.com/books/r-in-action-s    econd-edition)
+  * https://github.com/kabacoff/RiA2
 * [Mining the Social Web, 2nd Edition] (http://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
 * [Time Series Analysis and Its Applications: With R Examples, Third Edition] (http://www.amazon.com/Time-Analysis-Its-Applications-Statistics/dp/144197864X/)
 	* http://www.stat.pitt.edu/stoffer/tsa3/
