@@ -1,3 +1,5 @@
+# Lattice Graphs
+# http://www.statmethods.net/advgraphs/trellis.html
 library(lattice)
 eq<-function(x) {x^2}
 x<-1:20
