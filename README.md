@@ -74,6 +74,12 @@ Interesting R Packages
 * [hydroGOF: Goodness-of-Fit functions for comparison of simulated and observed hydrological time series] (https://cran.r-project.org/web/packages/hydroGOF/index.html)
 
 
+Interesting Github Accounts
+* https://github.com/rdpeng
+  * Roger D. Peng, Professor of Biostatistics at John Hopkins University
+
+
+
 Data Sources
 * [Microsoft Sequential Image Narrative Dataset (SIND)] (http://www.sind.ai/)
 * http://www.seas.upenn.edu/~taskar/ocr/
