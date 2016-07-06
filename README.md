@@ -72,7 +72,7 @@ Interesting R Packages
 * [XKCD style graphs in R] (http://xkcd.r-forge.r-project.org/)
 * [asta: Applied Statistical Time Series Analysis] (https://cran.r-project.org/web/packages/astsa/index.html)
 * [hydroGOF: Goodness-of-Fit functions for comparison of simulated and observed hydrological time series] (https://cran.r-project.org/web/packages/hydroGOF/index.html)
-
+* [R Futures] (http://www.aroma-project.org/share/presentations/BengtssonH_20160628-useR2016/BengtssonH_20160628-A_Future_for_R,useR2016.html#1)
 
 Interesting Github Accounts
 * https://github.com/rdpeng
