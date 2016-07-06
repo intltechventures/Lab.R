@@ -84,3 +84,7 @@ Data Sources
 * [Microsoft Sequential Image Narrative Dataset (SIND)] (http://www.sind.ai/)
 * http://www.seas.upenn.edu/~taskar/ocr/
 * [Global Health Observatory data repository] (http://apps.who.int/gho/data/node.main)
+
+
+Interesting Artitcles
+* http://www.r-bloggers.com/forest-plot-with-horizontal-bands
