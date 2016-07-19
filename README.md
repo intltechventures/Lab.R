@@ -84,6 +84,7 @@ Data Sources
 * [Microsoft Sequential Image Narrative Dataset (SIND)] (http://www.sind.ai/)
 * http://www.seas.upenn.edu/~taskar/ocr/
 * [Global Health Observatory data repository] (http://apps.who.int/gho/data/node.main)
+* https://data.cityofchicago.org/
 
 
 Interesting Artitcles
