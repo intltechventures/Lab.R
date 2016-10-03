@@ -77,6 +77,12 @@ Interesting R Packages
 Interesting Github Accounts
 * https://github.com/rdpeng
   * Roger D. Peng, Professor of Biostatistics at John Hopkins University
+* http://brohrer.github.io/
+  * Brandon Rohr, Principal Data Scientist, Microsoft
+  * https://twitter.com/_brohrer_
+
+Interesting Github Projects
+* https://github.com/RcppCore/Rcpp
 
 
 
@@ -85,6 +91,11 @@ Data Sources
 * http://www.seas.upenn.edu/~taskar/ocr/
 * [Global Health Observatory data repository] (http://apps.who.int/gho/data/node.main)
 * https://data.cityofchicago.org/
+
+
+Bad Data / Data Cleansing Strategies
+* https://github.com/Quartz/bad-data-guide
+
 
 
 Interesting Artitcles
