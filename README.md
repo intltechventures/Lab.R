@@ -101,3 +101,5 @@ Bad Data / Data Cleansing Strategies
 Interesting Artitcles
 * http://www.r-bloggers.com/forest-plot-with-horizontal-bands
 * https://rpubs.com/ByronOfMunster/82939
+* http://www.nature.com/collections/qghhqm/content/statistics-in-biology
+  * http://www.nature.com/collections/qghhqm/
