@@ -103,3 +103,4 @@ Interesting Artitcles
 * https://rpubs.com/ByronOfMunster/82939
 * http://www.nature.com/collections/qghhqm/content/statistics-in-biology
   * http://www.nature.com/collections/qghhqm/
+* http://www.infoworld.com/article/3173362/application-development/create-your-own-slack-bots-and-web-apis-in-r.html
