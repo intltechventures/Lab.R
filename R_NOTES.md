@@ -40,6 +40,12 @@ str(df)
 dataframename = read.csv("input_file_name.csv")
 
 
+colnames(dataframename)
+
+# Dimensions of the dataframe (rows, columns)
+dim(dataframenames)
+
+
 write.csv(dateframe_name, "output_file_name.csv")
 
 
