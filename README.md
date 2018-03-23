@@ -20,6 +20,12 @@ Helpful Resources
 * http://manuals.bioinformatics.ucr.edu/home/programming-in-r 
 
 
+Stat related podcasts
+* http://nssdeviations.com/
+* http://effortreport.libsyn.com/
+
+
+
 R GUI Resources:
 * http://www.rstudio.com
 * http://rattle.togaware.com
@@ -105,3 +111,13 @@ Interesting Artitcles
 * http://www.nature.com/collections/qghhqm/content/statistics-in-biology
   * http://www.nature.com/collections/qghhqm/
 * http://www.infoworld.com/article/3173362/application-development/create-your-own-slack-bots-and-web-apis-in-r.html
+
+
+Interesting Data/Stat Scientists
+* Roger D. Peng, Professor, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health
+  * http://www.biostat.jhsph.edu/~rpeng/
+  * https://simplystatistics.org/
+  * https://twitter.com/rdpeng
+  * https://twitter.com/simplystats
+
+
