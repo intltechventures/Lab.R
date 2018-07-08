@@ -5,6 +5,7 @@ R Resources
 * http://www.r-project.org
 * http://www.cran.r-project.org
 * https://cran.r-project.org/manuals.html
+* https://mran.revolutionanalytics.com/rro
 
 
 Helpful Resources
