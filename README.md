@@ -1,6 +1,7 @@
-# Lab.R
-A repository that serves as my lab for exploring the R programming language
-==== 
+Lab.R   
+====
+A repository that serves as my lab for exploring the R programming language    
+
 
 ### R Resources
 * http://www.r-project.org
@@ -63,7 +64,7 @@ A repository that serves as my lab for exploring the R programming language
 * To install a package in R, start the interactive shell, and enter the following command:  
   * ```install.packages("{package name}")```
     * example: ```install.packages("ggplot2")```
-```
+
 
 * To Update R:
   * ```install.packages("installr")```
