@@ -3,6 +3,7 @@
 
 # install.packages("xgboost")
 require(xgboost) 
+require(DiagrammeR)
 
 library(xgboost)
 # load data
@@ -15,3 +16,5 @@ bst <- xgboost(data = train$data, label = train$label, max_depth = 2, eta = 1, n
                nthread = 2, objective = "binary:logistic", verbose = 2)
 # predict
 pred <- predict(bst, test$data)
+
+# xgb.plot.tree(model = bst)
