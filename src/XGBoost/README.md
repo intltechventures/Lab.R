@@ -10,6 +10,7 @@ Exploring XGBoost in R
 
 
 ### References/Resources
+* https://xgboost.ai/about
 * https://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html
 * https://xgboost.readthedocs.io/en/latest/index.html
 * https://xgboost.readthedocs.io/en/latest/parameter.html
