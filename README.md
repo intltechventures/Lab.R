@@ -50,6 +50,10 @@ A repository that serves as my lab for exploring the R programming language
 	* http://www.stat.pitt.edu/stoffer/nltsa/
 * [ggplot2: Elegant Graphics for Data Analysis (Use R!), 2nd Edition, 2016](https://www.amazon.com/ggplot2-Elegant-Graphics-Data-Analysis/dp/331924275X)
 * [Data Manipulation in R: Black and White edition (R Fundamentals) (Volume 2, 2017)](https://www.amazon.com/Data-Manipulation-Black-White-Fundamentals/dp/1979699933/)
+* Online Book: Efficient R Programming
+  * https://csgillespie.github.io/efficientR/index.html
+  * https://csgillespie.github.io/efficientR/learning.html
+  * http://shop.oreilly.com/product/0636920047995.do
 
 
 
