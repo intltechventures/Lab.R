@@ -8,4 +8,8 @@ Learning R Resources
   * (Free online version of the O'Reilly book)
 
 
+### Tutorials
+* https://www.datacamp.com/courses/free-introduction-to-r
+
+
 
