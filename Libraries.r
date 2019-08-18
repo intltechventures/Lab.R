@@ -16,4 +16,6 @@ install.packages("plotrix")
 install.packages("klaR") 
 
 
-
+# https://www.tidyverse.org/
+# https://github.com/tidyverse
+install.packages("tidyverse")
