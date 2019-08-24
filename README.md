@@ -39,17 +39,26 @@ A repository that serves as my lab for exploring the R programming language
 
 
 ## Suggested Books
+- [R Packages (by Hadley Wickham, Jenny Bryan)](https://r-pkgs.org/index.html)
+
 - [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/)
+
 - [R for Data Science Solutions](https://jrnold.github.io/r4ds-exercise-solutions/)
+
 - [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
   + https://github.com/kabacoff/RiA2
+
 - [Mining the Social Web, 2nd Edition](http://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
+
 - [Time Series Analysis and Its Applications: With R Examples, Third Edition](http://www.amazon.com/Time-Analysis-Its-Applications-Statistics/dp/144197864X/)
   + http://www.stat.pitt.edu/stoffer/tsa3/
   + [EZ Edition](http://www.stat.pitt.edu/stoffer/tsa3/tsa3EZ.pdf)
+
 - [Nonlinear Time Series: Theory, Methods and Applications with R Examples, 1st Edition](http://www.amazon.com/Nonlinear-Time-Applications-Examples-Statistical/dp/1466502258)
   + http://www.stat.pitt.edu/stoffer/nltsa/
+
 - [ggplot2: Elegant Graphics for Data Analysis (Use R!), 2nd Edition, 2016](https://www.amazon.com/ggplot2-Elegant-Graphics-Data-Analysis/dp/331924275X)
+
 - [Data Manipulation in R: Black and White edition (R Fundamentals) (Volume 2, 2017)](https://www.amazon.com/Data-Manipulation-Black-White-Fundamentals/dp/1979699933/)
 - Online Book: Efficient R Programming
   + https://csgillespie.github.io/efficientR/index.html
