@@ -1,6 +1,22 @@
-#Miscellaneous R Notes
+# Miscellaneous R Notes
+
+## Console Commands
+- Clear Console
+  + ```CTL+L```
+
+
+
+## R Commands 
 
 ```R
+
+installed.packages()
+# list installed packages
+
+
+install.packages("{package name}")
+# install package {package nmae}
+
 
 ls()
 # will show the variables you have defined

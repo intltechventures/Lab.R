@@ -3,8 +3,24 @@
 
 
 # **********************************************************
+# devtools
+#
+install.packages("devtools")
+
+
+
+# **********************************************************
 # Visualization
 #
+
+# https://plotly-r.com/overview.html
+# https://github.com/ropensci/plotly
+# devtools::install_github("ropensci/plotly")
+install.packages("plotly")
+
+
+#
+install.packages("grid")
 
 
 # https://rdrr.io/cran/plotrix
@@ -19,3 +35,8 @@ install.packages("klaR")
 # https://www.tidyverse.org/
 # https://github.com/tidyverse
 install.packages("tidyverse")
+
+
+# 
+#
+install.packages("gdata") 
