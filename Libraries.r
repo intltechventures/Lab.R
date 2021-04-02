@@ -39,4 +39,12 @@ install.packages("tidyverse")
 
 # 
 #
-install.packages("gdata") 
+install.packages("gdata")
+
+
+
+
+#
+# Re: StatET, Eclipse Plugin
+# https://gitlab.com/walware/de.walware.rj-server.gr/-/wikis/Installation
+install.packages(c("rj", "rj.gd"), repos="https://download.walware.de/rj-4.0")
